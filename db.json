@@ -1,0 +1,102 @@
+{
+  "listings": [
+    {
+      "id": "1",
+      "title": "iPhone 13 Pro Max",
+      "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=400",
+      "description": "Brand new iPhone 13 Pro Max, 256GB, Pacific Blue. Still in original packaging.",
+      "price": 999,
+      "rating": 4.8,
+      "verified": true,
+      "category": "Electronics",
+      "location": "New York",
+      "userId": "1"
+    },
+    {
+      "id": "2",
+      "title": "Vintage Leather Jacket",
+      "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400",
+      "description": "Authentic vintage leather jacket from the 80s. Perfect condition, size M.",
+      "price": 150,
+      "rating": 4.5,
+      "verified": false,
+      "category": "Clothing",
+      "location": "Los Angeles",
+      "userId": "2"
+    },
+    {
+      "id": "3",
+      "title": "The Great Gatsby - First Edition",
+      "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=400",
+      "description": "Rare first edition of The Great Gatsby by F. Scott Fitzgerald. Excellent condition.",
+      "price": 2500,
+      "rating": 5.0,
+      "verified": true,
+      "category": "Books",
+      "location": "Chicago",
+      "userId": "3"
+    },
+    {
+      "id": "4",
+      "title": "Garden Tools Set",
+      "image": "https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=400",
+      "description": "Complete set of professional garden tools. Includes shovel, rake, pruners, and more.",
+      "price": 75,
+      "rating": 4.2,
+      "verified": false,
+      "category": "Home & Garden",
+      "location": "Houston",
+      "userId": "4"
+    },
+    {
+      "id": "5",
+      "title": "Honda Civic 2018",
+      "image": "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=400",
+      "description": "Well-maintained Honda Civic 2018, low mileage, one owner. All service records available.",
+      "price": 15000,
+      "rating": 4.7,
+      "verified": true,
+      "category": "Vehicles",
+      "location": "Phoenix",
+      "userId": "5"
+    },
+    {
+      "id": "6",
+      "title": "House Cleaning Service",
+      "image": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400",
+      "description": "Professional house cleaning service. Deep clean, move-in/move-out cleaning available.",
+      "price": 120,
+      "rating": 4.9,
+      "verified": true,
+      "category": "Services",
+      "location": "New York",
+      "userId": "6"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "+1234567890",
+      "verified": true,
+      "rating": 4.8
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "phone": "+1234567891",
+      "verified": false,
+      "rating": 4.5
+    },
+    {
+      "id": "3",
+      "name": "Bob Johnson",
+      "email": "bob@example.com",
+      "phone": "+1234567892",
+      "verified": true,
+      "rating": 5.0
+    }
+  ]
+}
